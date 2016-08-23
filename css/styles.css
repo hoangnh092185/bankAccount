@@ -1,0 +1,22 @@
+#receipt p {
+  text-align: center;
+  color: red;
+  font-size: 30px;
+}
+img.logo {
+  float: right;
+  width: 200px;
+}
+
+h3.logo {
+  text-align: right;
+  clear: both;
+}
+body {
+  background-image: url(../img/cat2.jpg);
+  color: #004d99;
+}
+
+.jumbotron, .well {
+  background: rgba(191, 191, 191, 0.8);
+}
